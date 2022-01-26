@@ -1,4 +1,4 @@
-[[setup-javaagent]]
+P[[setup-javaagent]]
 === Manual setup with `-javaagent` flag
 
 [float]
